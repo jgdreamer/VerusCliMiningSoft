@@ -40,7 +40,7 @@ Optional: create an entry in your SSH config file for each phone:
 Host jgphone02
     Hostname 192.168.50.152
     Port 2022
-    User jgphone01
+    User jgphone02
     IdentityFile ~\.ssh\id-rsa_oink-private
 ```
 
