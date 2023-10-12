@@ -37,10 +37,10 @@ start mining with `~/ccminer/start.sh`
 Standard SSH port for Userland is port `2022`.
 Optional: create an entry in your SSH config file for each phone:
 ```
-Host jgphone02
-    Hostname 192.168.50.152
+Host jgphone00
+    Hostname 192.168.50.215
     Port 2022
-    User jgphone02
+    User jgphone00
     IdentityFile ~\.ssh\id-rsa_oink-private
 ```
 
